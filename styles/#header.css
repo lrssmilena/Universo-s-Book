@@ -20,6 +20,8 @@
     height: 24px;
     background-image: url("/IMG/Menu.svg");
     display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .lista-menu {
