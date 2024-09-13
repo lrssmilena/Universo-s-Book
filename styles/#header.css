@@ -31,3 +31,9 @@
     position: absolute;
     top: 10%;
 }
+
+.lista-menu__titulo {
+    color: var(--preto);
+    background-color: var(--branco);
+    font-weight: 700px;
+}
