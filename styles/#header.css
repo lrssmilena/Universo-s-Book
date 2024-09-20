@@ -1,14 +1,17 @@
 .cabecalho {
-    width: 24%;
-    background-color: white;
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    position: relative;
+    color: black;
 
 }
 
 .container {
     display: flex;
     align-items: center;
+    color: black;
 }
 
 .container__botao:checked~.lista-menu {
