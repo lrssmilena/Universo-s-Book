@@ -1,5 +1,7 @@
 .banner {
-
+    background-color: var(--azul-degrade);
+    display: flex;
+    justify-content: center;
 }
 
 .banner__titulo {
@@ -11,5 +13,5 @@
 }
 
 .banner__pesquisa {
-    
+
 }
