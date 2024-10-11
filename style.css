@@ -4,7 +4,7 @@
 
 :root {
     --preto: #000000;
-    --font-size: 'Poppin', 'sans serif';
+    --font-principal: 'Poppin', 'sans serif';
     --branco: #FFFFFF;
     --azul: #002F52;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #325689 165.37%);
@@ -14,5 +14,5 @@
 body {
 background-color: var(--branco);
 color: var(--preto);
-font-size: var(--font-size);
+font-size: var(--fonte-principal);
 }
