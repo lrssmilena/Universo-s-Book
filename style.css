@@ -4,7 +4,7 @@
 
 :root {
     --preto: #000000;
-    --font-principal: 'Poppin', 'sans serif';
+    --font-principal: 'Poppins', 'sans serif';
     --branco: #FFFFFF;
     --azul: #002F52;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #325689 165.37%);
