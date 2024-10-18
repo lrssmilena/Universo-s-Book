@@ -46,5 +46,16 @@
 }
 
 .descricao__titulo {
-    
+    color: var(--laranja);
+    font-size: 10px;
+    font-weight: 700;
+    margin: 0.5em;
 }
+
+.descricao__subtitulo {
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em;
+}
+
