@@ -20,3 +20,10 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../IMG/Email.svg");
+    background-repeat: no-repeat;
+}
