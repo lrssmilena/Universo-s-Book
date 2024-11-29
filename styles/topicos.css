@@ -14,12 +14,14 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-decoration: none;
 }
 
 .topicos__item {
     display: flex;
     padding: 2em  0.5em;
     margin-left: 250px;
+    text-decoration: none ;
 }
 
 .topicos__ancora {
